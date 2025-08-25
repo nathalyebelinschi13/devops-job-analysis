@@ -53,6 +53,7 @@ Todos os gráficos estão disponíveis na pasta [`graficos/`](./graficos).
 O documento completo com a análise detalhada está disponível em:  
 🔗 [relatorio_devops.pdf](./relatorio_devops.pdf)
 
+
 ---
 
 Trabalho desenvolvido por **Nathalye Belinschi**  
