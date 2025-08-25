@@ -51,7 +51,7 @@ Todos os gráficos estão disponíveis na pasta [`graficos/`](./graficos).
 
 ## 📄 Relatório Completo
 O documento completo com a análise detalhada está disponível em:  
-[🔗 RELATÓRIO DE ANÁLISE DE VAGAS E SALÁRIOS – DEVOPS.pdf](https://<seu-usuario>.github.io/devops-job-analysis/RELATÓRIO_DE_ANALISE_DE_VAGAS_E_SALARIOS_DEVOPS.pdf
+[🔗 RELATÓRIO DE ANÁLISE DE VAGAS E SALÁRIOS – DEVOPS.pdf](https://<nathalye-belinschi13>.github.io/devops-job-analysis/RELATÓRIO_DE_ANALISE_DE_VAGAS_E_SALARIOS_DEVOPS.pdf
 )
 
 
