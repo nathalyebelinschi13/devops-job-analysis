@@ -62,5 +62,5 @@ O documento completo com a análise detalhada está disponível em:
 
 Trabalho desenvolvido por **Nathalye Belinschi**  
 - Universidade Positivo – Curso de **Análise e Desenvolvimento de Sistemas**  
-- Este projeto é parte da disciplina **Design Profissional**, com foco em preparação para o mercado DevOps.
+- Este projeto é parte da disciplina **Design Profissional**.
 
