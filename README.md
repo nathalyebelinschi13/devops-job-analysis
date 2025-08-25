@@ -52,7 +52,8 @@ Todos os gráficos estão disponíveis na pasta [`graficos/`](./graficos).
 ## 📄 Relatório Completo
 O documento completo com a análise detalhada está disponível em:  
 📄 Relatório completo disponível aqui:  
-🔗 [relatorio_devops.pdf](./docs/relatorio_devops.pdf)
+🔗 [relatorio_devops.pdf](./docs/relatoriovagas_devops.pdf)
+
 
 
 
