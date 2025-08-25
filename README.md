@@ -54,8 +54,6 @@ O documento completo com a análise detalhada está disponível em:
 📄 Relatório completo disponível aqui:  
 🔗 [relatorio_devops.pdf](./docs/relatorio_devops.pdf)
 
-[🔗 RELATÓRIO DE ANÁLISE DE VAGAS E SALÁRIOS – DEVOPS.pdf](https://<nathalye-belinschi13>.github.io/devops-job-analysis/RELATÓRIO_DE_ANALISE_DE_VAGAS_E_SALARIOS_DEVOPS.pdf
-)
 
 
 
